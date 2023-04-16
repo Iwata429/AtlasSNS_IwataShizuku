@@ -15,6 +15,7 @@ DB::table('users')->insert([
             ['username' => 'User1',
             'mail' => 'user1@mail',
             'password' => bcrypt('password')]
+            //初期ユーザー①
    ]);
 }
 }
