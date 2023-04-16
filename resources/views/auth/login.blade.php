@@ -3,6 +3,7 @@
 @section('content')
 
 {!! Form::open() !!}
+<!-- urlを書く！ -->
 
 <p>AtlasSNSへようこそ</p>
 

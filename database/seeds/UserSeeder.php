@@ -16,7 +16,7 @@ DB::table('users')->insert([
             'mail' => 'user1@mail',
             'password' => bcrypt('password')]
             //初期ユーザー①
-   ]);
+        ]);
 }
 }
 
@@ -26,11 +26,11 @@ DB::table('users')->insert([
 //         ['id' => 'user1',
 //         'username' => User1,
 //         'mail' => 'user1@mail',
-//         'password' => User1passwoed,],
+//         'password' => User1password,],
 //         ['id' => 'user2',
 //         'username' => User2,
 //         'mail' => 'user2@mail',
-// 		'password' => User2passwoed,],
+// 		'password' => User2password,],
 //         ['id' => 'user3',
 //         'username' => User3,
 //         'mail' => 'user3@mail',

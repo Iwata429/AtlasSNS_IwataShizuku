@@ -3,6 +3,7 @@
 @section('content')
 
 {!! Form::open() !!}
+<!-- urlを書く -->
 
 <h2>新規ユーザー登録</h2>
 
